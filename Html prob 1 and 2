@@ -1,0 +1,35 @@
+Fixing the Bug
+
+//Question 1
+<html lang="en">
+    <head>
+        <title>Document</title>
+    </head>
+   <body>
+     <h1>guvi</h1>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+    
+    
+    //Question 2 
+    
+    <html lang="en">
+    <head>
+      <title>Document</title>
+    </head>
+      <body>
+        <div>guvi </div>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html> 
